@@ -1,6 +1,6 @@
 # Dockerfile quine
 
-Writing quines in Ruby and/or Python are not that hard, due to `chr` and the lack of `$` sign in ordinal operations.
+Note that writing quines in Ruby and/or Python are not that hard, due to `chr` and the lack of `$` sign in ordinal operations.
 
 ## See Also
 
