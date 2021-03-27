@@ -4,4 +4,4 @@ Note that writing quines in Ruby and/or Python are not that hard, due to `chr` a
 
 ## See Also
 
-[Yusuke Endoh](https://github.com/mame), [one of the IOCCC winners](https://www.ioccc.org/winners.html#Yusuke_Endoh) has written a book about [quines and other esoteric programs in Japanese](https://mame.github.io/trance-book/). I have only used the basic techniques in the book so far.
+[Yusuke Endoh](https://github.com/mame), [one of the IOCCC winners](https://www.ioccc.org/winners.html#Yusuke_Endoh) has written [a Japanese book about quines and other esoteric programs](https://mame.github.io/trance-book/). I have only used the basic techniques in the book so far.
